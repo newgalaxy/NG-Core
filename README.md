@@ -1,4 +1,4 @@
 NG-Core
 =======
 
-NewGalaxy Core
+NG-Core
