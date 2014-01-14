@@ -1,4 +1,0 @@
-NG-Core
-=======
-
-NG-Core
